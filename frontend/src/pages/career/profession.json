@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Accountant",
+    "options": [
+      "Financial accounting",
+      "Managerial accounting",
+      "Cost accounting",
+      "Auditing",
+      "Tax accounting",
+      "Accounting information systems",
+      "Forensic accounting",
+      "Public accounting",
+      "Governmental accounting"
+    ]
+  },
+  {
+    "title": "Teacher",
+    "options": [
+      "Elementary school teacher",
+      "Middle school teacher",
+      "High school teacher",
+      "Special education teacher",
+      "ESL teacher"
+    ]
+  },
+  {
+    "title": "Technician",
+    "options": [
+      "IT Technician",
+      "Service Technician",
+      "Automotive Technician",
+      "Lab Technician",
+      "Dental Technician",
+      "Pharmacy Technician"
+    ]
+  },
+  {
+    "title": "Laborer",
+    "options": [
+      "Housekeeper",
+      "Custodian",
+      "Landscape technician",
+      "Emergency medical technician",
+      "Construction worker",
+      "Painter",
+      "Welder",
+      "Automotive technician"
+    ]
+  },
+  {
+    "title": "Banker",
+    "options": [
+      "Bank teller",
+      "Banker",
+      "Loan processor",
+      "Mortgage consultant",
+      "Investment representative",
+      "Credit analyst",
+      "Investment banker",
+      "Relationship manager",
+      "Financial advisor",
+      "Financial analyst",
+      "Asset manager",
+      "Underwriter",
+      "Internal auditor",
+      "Investment banking analyst",
+      "Loan officer"
+    ]
+  },
+  {
+    "title": "Engineer",
+    "options": [
+      "Petroleum Engineers",
+      "Computer Hardware Engineers",
+      "Aerospace Engineers",
+      "Nuclear Engineers",
+      "Chemical Engineers",
+      "Electrical and Electronics Engineers",
+      "Materials Engineers",
+      "Marine Engineers",
+      "Health and Safety Engineers",
+      "Mining and Geological Engineers",
+      "Biomedical Engineers",
+      "Environmental Engineers",
+      "Mechanical Engineers",
+      "Industrial Engineers",
+      "Civil Engineers",
+      "Agricultural Engineers"
+    ]
+  },
+  {
+    "title": "Lawyer",
+    "options": [
+      "Personal Injury Lawyer",
+      "Estate Planning Lawyer",
+      "Bankruptcy Lawyer",
+      "Intellectual Property Lawyer",
+      "Employment Lawyer",
+      "Corporate Lawyer",
+      "Immigration Lawyer",
+      "Criminal Lawyer",
+      "Medical Malpractice Lawyer",
+      "Tax Lawyer",
+      "Family Lawyer",
+      "Worker's Compensation Lawyer",
+      "Contract Lawyer",
+      "Social Security Disability Lawyer",
+      "Civil Litigation Lawyer",
+      "General Practice Lawyer"
+    ]
+  },
+  {
+    "title": "Psychologist",
+    "options": [
+      "Learning/Behavioral psychology",
+      "Child psychology",
+      "Psychodynamic psychology",
+      "Humanistic psychology",
+      "Evolutionary psychology",
+      "Biological psychology",
+      "Abnormal Psychology"
+    ]
+  },
+  {
+    "title": "Pharmacist",
+    "options": [
+      "Community pharmacist",
+      "Specialty drug pharmacists",
+      "Ambulatory care pharmacist",
+      "Military pharmacist",
+      "Informatic pharmacist",
+      "Hospital pharmacist",
+      "Nuclear pharmacist",
+      "Home care pharmacist",
+      "Academic/research pharmacist"
+    ]
+  },
+  {
+    "title": "Research Analyst",
+    "options": [
+      "Market Research Analyst (Marketing)",
+      "Operations Research Analyst",
+      "Economic Research analyst",
+      "Financial Analyst",
+      "Equity Research Analyst"
+    ]
+  },
+  {
+    "title": "Mechanic",
+    "options": [
+      "Diesel mechanic",
+      "General automotive mechanic",
+      "Brake and transmission technicians",
+      "Auto body mechanics",
+      "Race car mechanics",
+      "Service technicians",
+      "Auto glass mechanics",
+      "Heavy equipment mechanic",
+      "Aircraft mechanic",
+      "Small engine mechanic",
+      "Marine mechanics",
+      "Tire mechanics"
+    ]
+  },
+  {
+    "title": "Electrician",
+    "options": [
+      "Residential Electrician",
+      "Commercial Electrician",
+      "Industrial Electrician",
+      "Maintenance Electrician",
+      "Installation Electrician",
+      "Construction Electrician",
+      "Automotive Electrician",
+      "Marine Electrician",
+      "Highway Systems Electrician"
+    ]
+  },
+  {
+    "title": "Dentist",
+    "options": [
+      "General Dentist",
+      "Pedodontist or Pediatric Dentist",
+      "Orthodontist",
+      "Periodontist",
+      "Endodontist",
+      "Oral Pathologist or Oral Surgeon",
+      "Prosthodontist"
+    ]
+  },
+  {
+    "title": "Consultant",
+    "options": [
+      "Strategy Consultant",
+      "Management Consultant",
+      "Operations Consultant",
+      "Financial Advisory Consultant",
+      "Human Resource Consultant",
+      "IT Consultant"
+    ]
+  },
+  {
+    "title": "Programmer",
+    "options": [
+      "Game Developer",
+      "Hardware programmer",
+      "Web developer",
+      "Software developer",
+      "Database developer",
+      "Quality control specialist",
+      "Network system administrator",
+      "Front-end developer ",
+      "Back-end developer",
+      "Full-stack developer"
+    ]
+  }
+]
